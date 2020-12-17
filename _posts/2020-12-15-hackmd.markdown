@@ -24,6 +24,9 @@ More Text
 
 
 
+- Note: Uploads to imgur, which I don't really like
+- URLs don't get pasted as Markdown links, which I like from StackEdit
+
 
 
 
