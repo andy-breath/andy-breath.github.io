@@ -1,0 +1,23 @@
+- Fix about.html
+- ./local.sh git-merge-to-master
+
+
+Tools
+-----
+
+- hackmd.io
+  - HedgeDoc is the open source one, but not sure if it syncs to Github.
+- StackEdit inexplicably broke recently?
+
+Pages
+-----
+
+- Books
+  - Amazon
+
+- Videos
+  - go through your mails to Jean-Michel
+
+- People
+  - Cynthia, Jean-Michel, Virginia, Zaghi
+
